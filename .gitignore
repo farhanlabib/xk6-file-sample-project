@@ -1,0 +1,3 @@
+# Go module cache (GOPATH) must not be committed
+pkg/
+.DS_Store
